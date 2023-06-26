@@ -1,4 +1,4 @@
-/*Ejercicio 01_Variables y operadores*/
+/*Ejercicio 01_Variables y operadores revisado*/
 
 /* a)- */
 var palabra1 = prompt("introduzca la primer palabra");

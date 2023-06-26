@@ -1,3 +1,4 @@
+/* Revisado */
 function ejercicio4a(){
     let num1 = Math.random();
     if(num1 >= 0.5){

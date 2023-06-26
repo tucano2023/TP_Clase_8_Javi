@@ -1,3 +1,4 @@
+/* revisado */
 function ejercicio5a(){
     const palabras = ["perro", "gato", "lobo", "canario", "pollo"];
     for(var i=0; i<5 ;i++){

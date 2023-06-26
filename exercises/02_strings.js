@@ -1,4 +1,4 @@
-/*Ejercicio 02 - Strings*/
+/*Ejercicio 02 - Strings - revisado*/
 
 function ejercicio2a(){
     let palabra3 = "Anastasias";

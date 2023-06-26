@@ -1,4 +1,4 @@
-/* Ejercicio 03 - Arrays*/
+/* Ejercicio 03 - Arrays revisado*/
 
 function ejercicio3a(){
     const meses = ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"]

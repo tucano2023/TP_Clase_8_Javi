@@ -1,3 +1,4 @@
+/* revisado */
 function ejercicio6a() {
     let num1 = prompt("Ingrese el primer valor");
     let num2 = prompt("Ingrese el segundo valor");
